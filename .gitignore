@@ -3,3 +3,4 @@ venv/
 cifar10/env
 cifar10/.venv
 cifar10/.vscode
+cifar10/images
