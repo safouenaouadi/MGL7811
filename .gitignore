@@ -1,6 +1,9 @@
 *.pyc
 venv/
+<<<<<<< HEAD
 cifar10/env
 cifar10/.venv
 cifar10/.vscode
 cifar10/images
+=======
+>>>>>>> f1fa3479fd14322bec5b1471b5c9454d9a922a1e
