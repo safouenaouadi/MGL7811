@@ -7,7 +7,7 @@
 
 ## Run project
 1-Go to project folder  
-2-python manage.py runserver  
+2-Run cmd python manage.py runserver  
 enjoy
 
 
